@@ -1,7 +1,10 @@
 name: fiberpool
 version: 0.1.0
 
+crystal: ">= 0.35.0, < 2.0.0"
+
 authors:
   - AkitaOnRails <boss@akitaonrails.com>
+  - Green-Edge <support@green-edge.net>
 
 license: MIT
